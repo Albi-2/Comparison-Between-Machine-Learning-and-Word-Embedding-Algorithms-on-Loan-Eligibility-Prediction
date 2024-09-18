@@ -13,4 +13,4 @@ LendingClub Dataset: Available via Lendingclub.com through data.world.
 Reference:
 Lendingclub.com. (2017). Lending Club Loan Data 2007-11. https://www.lendingclub.com/ino/download-data.action. https://data.world/jaypeedevlin/lending-club-loan-data-2007-11
 
-Hofmann, H. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/https://doi.org/10.24432/C5NC77
+Hofmann, H. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data. https://doi.org/https://doi.org/10.24432/C5NC77
